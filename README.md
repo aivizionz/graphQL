@@ -127,3 +127,5 @@ Query Variables for mutation NewStatus
 3. GraphQL Faker
 4. GraphQL  Visual editor
 
+## Resources
+1. https://learn.microsoft.com/en-us/shows/graphql/
